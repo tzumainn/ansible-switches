@@ -279,6 +279,7 @@ interfaces:
     mtu: 9216
     portmode: "access"
     untagged: 217
+    tagged: 219
     stp:
       edgeport: true
       bpduguard: true
@@ -300,6 +301,7 @@ interfaces:
     mtu: 9216
     portmode: "access"
     untagged: 217
+    tagged: 219
     stp:
       edgeport: true
       bpduguard: true
